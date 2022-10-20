@@ -32,7 +32,8 @@ set(PROJECT_SOURCES
         src/camera.cpp
         src/camera.h
         bin
-        tests/functional
+        tests/functional/functional_tests.cpp
+        tests/functional/functional_tests.h
 
         tests/unit/unit_administrador.cpp
         tests/unit/unit_administrador.h

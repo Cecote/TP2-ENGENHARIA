@@ -315,6 +315,12 @@
 			null
 		],
 		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/functional/functional_tests.h",
+			"MU",
+			"UQ3UF2YJW2/moc_functional_tests.cpp",
+			null
+		],
+		[
 			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_administrador.h",
 			"MU",
 			"KSM2ZIVCEU/moc_unit_administrador.cpp",
@@ -448,6 +454,11 @@
 		],
 		[
 			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/motorista.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/functional/functional_tests.cpp",
 			"MU",
 			null
 		],
