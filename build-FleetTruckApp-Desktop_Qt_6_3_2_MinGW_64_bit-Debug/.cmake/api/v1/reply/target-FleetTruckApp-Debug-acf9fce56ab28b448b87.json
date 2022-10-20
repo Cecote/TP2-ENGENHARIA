@@ -51,7 +51,7 @@
 			{
 				"command" : 3,
 				"file" : 1,
-				"line" : 40,
+				"line" : 41,
 				"parent" : 0
 			},
 			{
@@ -75,13 +75,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 76,
+				"line" : 77,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 66,
+				"line" : 67,
 				"parent" : 0
 			},
 			{
@@ -514,7 +514,7 @@
 				10,
 				12,
 				14,
-				18
+				19
 			]
 		},
 		{
@@ -525,14 +525,15 @@
 				15,
 				16,
 				17,
-				19
+				18,
+				20
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				20
+				21
 			]
 		}
 	],
@@ -629,7 +630,12 @@
 		},
 		{
 			"backtrace" : 4,
-			"path" : "tests",
+			"path" : "tests/functional",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "tests/unit",
 			"sourceGroupIndex" : 2
 		},
 		{

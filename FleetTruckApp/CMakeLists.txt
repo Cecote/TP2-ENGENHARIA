@@ -32,7 +32,8 @@ set(PROJECT_SOURCES
         src/camera.cpp
         src/camera.h
         bin
-        tests
+        tests/functional
+        tests/unit
         ${TS_FILES}
 )
 
