@@ -33,7 +33,17 @@ set(PROJECT_SOURCES
         src/camera.h
         bin
         tests/functional
-        tests/unit
+
+        tests/unit/unit_administrador.cpp
+        tests/unit/unit_administrador.h
+        tests/unit/unit_gerente.cpp
+        tests/unit/unit_gerente.h
+        tests/unit/unit_mecanico.cpp
+        tests/unit/unit_mecanico.h
+        tests/unit/unit_motorista.cpp
+        tests/unit/unit_motorista.h
+        tests/unit/unit_camera.cpp
+        tests/unit/unit_camera.h
         ${TS_FILES}
 )
 

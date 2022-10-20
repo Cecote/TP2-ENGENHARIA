@@ -113,6 +113,46 @@ build CMakeFiles/FleetTruckApp.dir/src/camera.cpp.obj: CXX_COMPILER__FleetTruckA
   OBJECT_DIR = CMakeFiles\FleetTruckApp.dir
   OBJECT_FILE_DIR = CMakeFiles\FleetTruckApp.dir\src
 
+build CMakeFiles/FleetTruckApp.dir/tests/unit/unit_administrador.cpp.obj: CXX_COMPILER__FleetTruckApp_Debug C$:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia$ de$ software$ 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_administrador.cpp || cmake_object_order_depends_target_FleetTruckApp
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\FleetTruckApp.dir\tests\unit\unit_administrador.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/build-FleetTruckApp-Desktop_Qt_6_3_2_MinGW_64_bit-Debug" -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp" -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/build-FleetTruckApp-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/FleetTruckApp_autogen/include" -isystem C:/Qt/6.3.2/mingw_64/include/QtCore -isystem C:/Qt/6.3.2/mingw_64/include -isystem C:/Qt/6.3.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.3.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.3.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\FleetTruckApp.dir
+  OBJECT_FILE_DIR = CMakeFiles\FleetTruckApp.dir\tests\unit
+
+build CMakeFiles/FleetTruckApp.dir/tests/unit/unit_gerente.cpp.obj: CXX_COMPILER__FleetTruckApp_Debug C$:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia$ de$ software$ 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_gerente.cpp || cmake_object_order_depends_target_FleetTruckApp
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\FleetTruckApp.dir\tests\unit\unit_gerente.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/build-FleetTruckApp-Desktop_Qt_6_3_2_MinGW_64_bit-Debug" -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp" -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/build-FleetTruckApp-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/FleetTruckApp_autogen/include" -isystem C:/Qt/6.3.2/mingw_64/include/QtCore -isystem C:/Qt/6.3.2/mingw_64/include -isystem C:/Qt/6.3.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.3.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.3.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\FleetTruckApp.dir
+  OBJECT_FILE_DIR = CMakeFiles\FleetTruckApp.dir\tests\unit
+
+build CMakeFiles/FleetTruckApp.dir/tests/unit/unit_mecanico.cpp.obj: CXX_COMPILER__FleetTruckApp_Debug C$:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia$ de$ software$ 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_mecanico.cpp || cmake_object_order_depends_target_FleetTruckApp
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\FleetTruckApp.dir\tests\unit\unit_mecanico.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/build-FleetTruckApp-Desktop_Qt_6_3_2_MinGW_64_bit-Debug" -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp" -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/build-FleetTruckApp-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/FleetTruckApp_autogen/include" -isystem C:/Qt/6.3.2/mingw_64/include/QtCore -isystem C:/Qt/6.3.2/mingw_64/include -isystem C:/Qt/6.3.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.3.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.3.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\FleetTruckApp.dir
+  OBJECT_FILE_DIR = CMakeFiles\FleetTruckApp.dir\tests\unit
+
+build CMakeFiles/FleetTruckApp.dir/tests/unit/unit_motorista.cpp.obj: CXX_COMPILER__FleetTruckApp_Debug C$:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia$ de$ software$ 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_motorista.cpp || cmake_object_order_depends_target_FleetTruckApp
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\FleetTruckApp.dir\tests\unit\unit_motorista.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/build-FleetTruckApp-Desktop_Qt_6_3_2_MinGW_64_bit-Debug" -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp" -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/build-FleetTruckApp-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/FleetTruckApp_autogen/include" -isystem C:/Qt/6.3.2/mingw_64/include/QtCore -isystem C:/Qt/6.3.2/mingw_64/include -isystem C:/Qt/6.3.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.3.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.3.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\FleetTruckApp.dir
+  OBJECT_FILE_DIR = CMakeFiles\FleetTruckApp.dir\tests\unit
+
+build CMakeFiles/FleetTruckApp.dir/tests/unit/unit_camera.cpp.obj: CXX_COMPILER__FleetTruckApp_Debug C$:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia$ de$ software$ 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_camera.cpp || cmake_object_order_depends_target_FleetTruckApp
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\FleetTruckApp.dir\tests\unit\unit_camera.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/build-FleetTruckApp-Desktop_Qt_6_3_2_MinGW_64_bit-Debug" -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp" -I"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/build-FleetTruckApp-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/FleetTruckApp_autogen/include" -isystem C:/Qt/6.3.2/mingw_64/include/QtCore -isystem C:/Qt/6.3.2/mingw_64/include -isystem C:/Qt/6.3.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.3.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.3.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\FleetTruckApp.dir
+  OBJECT_FILE_DIR = CMakeFiles\FleetTruckApp.dir\tests\unit
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target FleetTruckApp
@@ -121,7 +161,7 @@ build CMakeFiles/FleetTruckApp.dir/src/camera.cpp.obj: CXX_COMPILER__FleetTruckA
 #############################################
 # Link the executable FleetTruckApp.exe
 
-build FleetTruckApp.exe: CXX_EXECUTABLE_LINKER__FleetTruckApp_Debug CMakeFiles/FleetTruckApp.dir/FleetTruckApp_autogen/mocs_compilation.cpp.obj CMakeFiles/FleetTruckApp.dir/main.cpp.obj CMakeFiles/FleetTruckApp.dir/mainwindow.cpp.obj CMakeFiles/FleetTruckApp.dir/src/administrador.cpp.obj CMakeFiles/FleetTruckApp.dir/src/gerente.cpp.obj CMakeFiles/FleetTruckApp.dir/src/motorista.cpp.obj CMakeFiles/FleetTruckApp.dir/src/mecanico.cpp.obj CMakeFiles/FleetTruckApp.dir/src/camera.cpp.obj | C$:/Qt/6.3.2/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.3.2/mingw_64/lib/libQt6Gui.a C$:/Qt/6.3.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.3.2/mingw_64/lib/libQt6EntryPoint.a || FleetTruckApp_autogen FleetTruckApp_autogen_timestamp_deps
+build FleetTruckApp.exe: CXX_EXECUTABLE_LINKER__FleetTruckApp_Debug CMakeFiles/FleetTruckApp.dir/FleetTruckApp_autogen/mocs_compilation.cpp.obj CMakeFiles/FleetTruckApp.dir/main.cpp.obj CMakeFiles/FleetTruckApp.dir/mainwindow.cpp.obj CMakeFiles/FleetTruckApp.dir/src/administrador.cpp.obj CMakeFiles/FleetTruckApp.dir/src/gerente.cpp.obj CMakeFiles/FleetTruckApp.dir/src/motorista.cpp.obj CMakeFiles/FleetTruckApp.dir/src/mecanico.cpp.obj CMakeFiles/FleetTruckApp.dir/src/camera.cpp.obj CMakeFiles/FleetTruckApp.dir/tests/unit/unit_administrador.cpp.obj CMakeFiles/FleetTruckApp.dir/tests/unit/unit_gerente.cpp.obj CMakeFiles/FleetTruckApp.dir/tests/unit/unit_mecanico.cpp.obj CMakeFiles/FleetTruckApp.dir/tests/unit/unit_motorista.cpp.obj CMakeFiles/FleetTruckApp.dir/tests/unit/unit_camera.cpp.obj | C$:/Qt/6.3.2/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.3.2/mingw_64/lib/libQt6Gui.a C$:/Qt/6.3.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.3.2/mingw_64/lib/libQt6EntryPoint.a || FleetTruckApp_autogen FleetTruckApp_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.3.2/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.3.2/mingw_64/lib/libQt6Gui.a  C:/Qt/6.3.2/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.3.2/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

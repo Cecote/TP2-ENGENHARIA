@@ -48,6 +48,11 @@ set(OLD_GLOB
   "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/gerente.cpp"
   "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/mecanico.cpp"
   "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/motorista.cpp"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_administrador.cpp"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_camera.cpp"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_gerente.cpp"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_mecanico.cpp"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_motorista.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
@@ -72,6 +77,11 @@ set(OLD_GLOB
   "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/gerente.h"
   "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/mecanico.h"
   "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/motorista.h"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_administrador.h"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_camera.h"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_gerente.h"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_mecanico.h"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_motorista.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

@@ -313,6 +313,36 @@
 			"MU",
 			"UVLADIE3JM/moc_motorista.cpp",
 			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_administrador.h",
+			"MU",
+			"KSM2ZIVCEU/moc_unit_administrador.cpp",
+			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_camera.h",
+			"MU",
+			"KSM2ZIVCEU/moc_unit_camera.cpp",
+			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_gerente.h",
+			"MU",
+			"KSM2ZIVCEU/moc_unit_gerente.cpp",
+			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_mecanico.h",
+			"MU",
+			"KSM2ZIVCEU/moc_unit_mecanico.cpp",
+			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_motorista.h",
+			"MU",
+			"KSM2ZIVCEU/moc_unit_motorista.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -418,6 +448,31 @@
 		],
 		[
 			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/motorista.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_administrador.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_camera.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_gerente.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_mecanico.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/tests/unit/unit_motorista.cpp",
 			"MU",
 			null
 		]
