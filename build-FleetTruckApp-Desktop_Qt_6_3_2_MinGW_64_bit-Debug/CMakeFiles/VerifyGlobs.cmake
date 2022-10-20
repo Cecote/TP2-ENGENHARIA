@@ -43,6 +43,11 @@ file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/Thiag/OneDrive/Docum
 set(OLD_GLOB
   "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/main.cpp"
   "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/mainwindow.cpp"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/administrador.cpp"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/camera.cpp"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/gerente.cpp"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/mecanico.cpp"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/motorista.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
@@ -62,6 +67,11 @@ endif()
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/*.h")
 set(OLD_GLOB
   "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/mainwindow.h"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/administrador.h"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/camera.h"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/gerente.h"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/mecanico.h"
+  "C:/Users/Thiag/OneDrive/Documentos/TP2-Engenharia de software 1/TP2-ENGENHARIA/FleetTruckApp/src/motorista.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

@@ -21,6 +21,18 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
+        src/administrador.cpp
+        src/administrador.h
+        src/gerente.cpp
+        src/gerente.h
+        src/motorista.cpp
+        src/motorista.h
+        src/mecanico.cpp
+        src/mecanico.h
+        src/camera.cpp
+        src/camera.h
+        bin
+        tests
         ${TS_FILES}
 )
 
